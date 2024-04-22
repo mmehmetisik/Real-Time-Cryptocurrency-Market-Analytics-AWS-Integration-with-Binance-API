@@ -15,22 +15,3 @@ The system's architecture is designed to support continuous data streaming and p
 
 ## Security
 Implemented within a VPC to ensure an isolated network environment, the project also utilizes IAM roles and policies for stringent authentication and access control measures.
-
-## Setup and Installation
-*Instructions on how to set up the project, including any configurations or environment setup.*
-
-## Usage
-*Instructions on how to use the system, including any relevant commands or scripts.*
-
-## Contributing
-*Guidelines for contributing to the project, if applicable.*
-
-## License
-*Information about the project's license.*
-
-## Acknowledgments
-*Any acknowledgments or credits you'd like to give.*
-
----
-
-For further details, issues, or feature requests, please refer to the [Issues](https://github.com/yourusername/yourrepository/issues) section or submit a pull request.
